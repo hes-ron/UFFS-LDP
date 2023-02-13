@@ -1,0 +1,4 @@
+(\x:Number -> if x == 1 || x == 2
+              then 4
+              else 8
+) 2

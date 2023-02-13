@@ -1,0 +1,4 @@
+(\x:Number -> if x == 1
+    then tp (1,2)
+    else ts (2,3)
+) 1

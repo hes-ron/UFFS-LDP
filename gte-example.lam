@@ -1,0 +1,4 @@
+(\x:Number -> if x >= 10
+              then 4
+              else 8
+) 10

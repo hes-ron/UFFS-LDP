@@ -1,0 +1,4 @@
+(\x:Number -> if x == 1 
+              then x * 2
+              else x * 3
+) 2

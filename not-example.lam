@@ -1,0 +1,4 @@
+(\x:Number -> if x == 1
+    then true
+    else false
+) 1

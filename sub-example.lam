@@ -1,0 +1,4 @@
+(\x:Number -> if x == 1
+              then 10 - 10
+              else 20 - 10
+) 2
